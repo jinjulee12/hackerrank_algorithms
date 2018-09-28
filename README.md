@@ -1,1 +1,1 @@
-# hackerrank_algorithms
+# hackerrank_Python3_algorithms
