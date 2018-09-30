@@ -1,6 +1,10 @@
-if __name__ == '__main__':
+'''
+Title     : Python Division
+Domain    : Python
+Created   : 30 Sep 2018
+'''
 
-    a = int(input())
+a = int(input())
     b = int(input())
     
     print(a//b)
