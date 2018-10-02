@@ -10,5 +10,7 @@ if 0 < N < 21 :
     while N > 0 :
         print((N-1)**2)
         N -= 1
+Else :
+    print('Write a valid number 1~20')
         
 #Have to inverse order of the result 
