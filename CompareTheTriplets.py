@@ -1,4 +1,8 @@
-
+'''
+Title     : Compare the Triplets
+Domain    : Python
+Created   : 07 Oct 2018
+'''
 
 
 a_input = input()
